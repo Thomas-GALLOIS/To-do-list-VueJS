@@ -1,1 +1,2 @@
-# To-do-list-VueJS
+# To-do-list
+VueJS
